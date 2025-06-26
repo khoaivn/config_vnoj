@@ -1,5 +1,5 @@
 const config = {
-  get_host: '127.0.0.1',
+  get_host: '127.0.0.1', // IP cua server hiện tại
   get_port: 15100,
   post_host: '127.0.0.1',
   post_port: 15101,
